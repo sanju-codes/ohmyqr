@@ -1,11 +1,9 @@
 # OhMyQR v1.0
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/thelinuxchoice
+## Author: SANJU PAPPACHAN
 ### Don't copy this code without give me the credits, nerd! 
 
 QR Code Jacking (Any Website)
 
-![qr](https://user-images.githubusercontent.com/34893261/43678438-b78ba754-97e9-11e8-9191-63147a4039d7.png)
 
 ### Features:
 ### Port Forwarding using Ngrok or Serveo
@@ -17,7 +15,7 @@ Usage of OhMyQR for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/ohmyqr
+git clone https://github.com/Sanju8943/ohmyqr
 cd ohmyqr
 bash ohmyqr.sh
 ```
