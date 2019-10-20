@@ -1,7 +1,7 @@
 #!/bin/bash
 # OhMyQR v1.0
-# Coded by: thelinuxchoice (You dont become a coder by just changing the credits)
-# Github: https://github.com/thelinuxchoice/ohmyqr
+# Coded by: SANJU PAPPACHAN (You dont become a coder by just changing the credits)
+# Github: https://github.com/Sanju8943/ohmyqr
 
 trap 'printf "\n";stop;exit 1' 2
 
@@ -72,7 +72,7 @@ printf "                                   Y8b d88P                         \n"
 printf '                                    \"Y88P\" v1.0                     \e[0m\n'
 
 printf "\n"
-printf "\e[1;93m  ::: Author: @thelinuxchoice\e[0m\n"
+printf "\e[1;93m  ::: Author: @SANJU PAPPACHAN\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by OhMyQR     ::\e[0m\n"
